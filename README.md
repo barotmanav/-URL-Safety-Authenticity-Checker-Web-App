@@ -16,9 +16,10 @@
 
 ## 🖼️ Demo
 
-> _(Insert a screenshot of the web app here)_  
-Example:
-Input: http://g00gle.com/login.php?id=1
+
+https://github.com/user-attachments/assets/ac445eba-649e-4516-9367-a08c1a234193
+
+
 Output: 🔴 Malicious or Suspicious URL
 
 
