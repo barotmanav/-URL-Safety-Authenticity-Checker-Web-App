@@ -6,7 +6,7 @@
 
 ## 🚀 Features
 
-- 🌐 Web interface to input and analyze any URL
+- 🌐 Web interface to input and analyze any URLss
 - 🧠 ML model trained on 600k+ malicious & benign URLs
 - 🧪 Detects phishing, suspicious domains (like g00gle.com), and patterns like SQLi/XSS
 - ⚡ Works locally with no internet/API needed
