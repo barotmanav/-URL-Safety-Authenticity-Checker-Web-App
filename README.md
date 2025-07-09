@@ -18,6 +18,7 @@
 
 
 https://github.com/user-attachments/assets/ac445eba-649e-4516-9367-a08c1a234193
+https://url-safety-authenticity-checker.onrender.com
 
 
 Output: 🔴 Malicious or Suspicious URL
