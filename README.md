@@ -18,7 +18,7 @@
 
 
 https://github.com/user-attachments/assets/ac445eba-649e-4516-9367-a08c1a234193
-https://url-safety-authenticity-checker.onrender.com
+
 
 
 Output: 🔴 Malicious or Suspicious URL
@@ -87,7 +87,7 @@ Accuracy: ~96–98% on validation set
 Training Time: ~1–2 mins on 10k samples
 
 💡 Ideas for Future
-🌍 Deploy to Hugging Face Spaces or Render
+🌍 Deploy to Hugging Face Spaces or Render  =https://url-safety-authenticity-checker.onrender.com
 
 🌐 WHOIS or domain trust checks
 
